@@ -5,6 +5,9 @@
   "bin": {
     "marco": "src/bin/marco.js"
   },
+  "engines": {
+    "node": ">=8.0.0"
+  },
   "author": "Andrew Smith <andrew@andrew.codes>",
   "license": "MIT",
   "private": true,
