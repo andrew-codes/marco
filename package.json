@@ -1,6 +1,6 @@
 {
   "name": "@andrew-codes/marco",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Server that echos all requests; used by myself to test web hooks from CLI.",
   "bin": {
     "marco": "src/bin/marco.js"
